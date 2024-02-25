@@ -503,11 +503,13 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 ### Artikel 42 - Wisselen van baan
 
 1. De volgende wachttijden zijn van toepassing indien je wilt wisselen van baan:
+
 | *Van*  | *Naar*  | *Wachttijd*  |
 |---|---|---|
 | Overheidsbaan | Overheidsbaan | 7 kalenderdagen |
 | Overheidsbaan  | Criminele organisatie  | 7 kalenderdagen |
 | Criminele organisatie | Overheidsbaan | 7 kalenderdagen |
+
 2. Een uitzondering op de in lid 1 benoemde wachttijden kan worden genomen door het managementteam.
 3. Het is voor de leiding van overheidsorganisaties en criminele organisaties de verantwoordelijkheid om toezicht te houden op deze wachttijden.
 
