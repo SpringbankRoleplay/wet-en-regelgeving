@@ -551,6 +551,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
   
 ### Artikel 48 - Graphic packs
 Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen een oneerlijk voordeel opleveren of de spelervaring voor anderen negatief beïnvloeden. Daarom is het gebruik van de volgende soorten graphic packs en beeldscherminstellingen verboden:
+
 1. Permanente Daglicht Packs: Het is niet toegestaan om graphic packs te gebruiken die ervoor zorgen dat het in de virtuele omgeving altijd licht is, zodoende het nacht-en-dag cyclus te omzeilen.
 2. Kogel Tracer Packs: Het is niet toegestaan om graphic packs te gebruiken die de tracers van kogels zichtbaar maken, hetgeen een nadelige invloed kan hebben op de spelbeleving.
 3. Beeldverhouding 4:3: Het is niet toegestaan om de beeldscherm instellingen op een 4:3-verhouding in te stellen, waardoor grafische elementen disproportioneel breder worden weergegeven.
