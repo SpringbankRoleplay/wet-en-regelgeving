@@ -61,6 +61,8 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Subaru Impreza WRX STI (FF4 Edition) 2009 (alleen met off-road banden)
  * Yamaha R1M Raptor
  * Porsche Cayenne Turbo Coupé
+ * Bmw X5 Prior Edition
+ * Audi RSQ3 Mansory Evo
 
 ### Off-road wegen
  * 3XB Lucky Buggy
@@ -106,4 +108,6 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Yamaha R1M Raptor (alleen met off-road banden)
  * Porsche Cayenne Turbo Coupé (alleen met off-road banden)
  * Vanztra Trailer
+ * Bmw X5 Prior Edition (alleen met off-road banden)
+ * Brabus G63 AMG 6x6
 
