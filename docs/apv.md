@@ -519,6 +519,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 2. Het is ook niet toegestaan donatievoertuigen te ruilen voor andere (donatie)spullen.
 3. Het is niet toegestaan goederen van andere spelers aan te nemen of spullen weg te geven, wanneer deze de stad uit gaat, indien deze goederen gekocht zijn met echt geld.
 4. Hieronder wordt ook het aanbieden of vragen naar verstaan.
+5. Het vragen naar startersgeld e.d. is niet toegestaan. 
 
 > Straf ⇨ Categorie 7: een permanente ban
 
