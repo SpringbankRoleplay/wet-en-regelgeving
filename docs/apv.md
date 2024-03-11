@@ -471,6 +471,16 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
+### Artikel 49 - Witwassen
+
+1. Witwassers overvallen is toegestaan wanneer minimaal één van onderstaande punten van toepassing is.
+	* Hij/zij gezichtsbedekking of beschermende kleding zoals een body armor draagt.
+	* Een persoon verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment uitvoert.
+	* De overvaller dient op het moment van overvallen beelden te kunnen overhandigen aan de staffleden. Mocht dit niet mogelijk zijn zal het direct teruggedraait worden en zal er een straf komen van de 1e categorie.
+	* Het campen of opwachten op witwas locaties en het depot is verboden.
+
+> Straf ⇨ Categorie 2: een ban van maximaal 1 dag
+
 ## Overige bepalingen
 
 ### Artikel 39 - Bodycams
