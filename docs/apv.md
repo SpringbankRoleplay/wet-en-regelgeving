@@ -478,6 +478,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 	* Een persoon verdachte handelingen doet bij een afleverpunt die niet passen bij de baan die de persoon op dat moment uitvoert.
 	* De overvaller dient op het moment van overvallen beelden te kunnen overhandigen aan de staffleden. Mocht dit niet mogelijk zijn zal het direct teruggedraait worden en zal er een straf komen van de 1e categorie.
 	* Het campen of opwachten op witwas locaties en het depot is verboden.
+ 	* Wanneer je een toeter hoort van een stilstaande vuilniswagen mag je hem rippen.
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
