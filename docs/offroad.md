@@ -63,6 +63,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Porsche Cayenne Turbo Coupé
  * Bmw X5 Prior Edition
  * Audi RSQ3 Mansory Evo
+ * Vuilniswagen
 
 ### Off-road wegen
  * 3XB Lucky Buggy
