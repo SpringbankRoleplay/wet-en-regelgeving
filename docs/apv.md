@@ -450,7 +450,6 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 
 1. Het is niet toegestaan om te campen op een locatie betrokken bij illegale praktijken met de intentie om bijvoorbeeld mensen te overvallen of te vermoorden.
 2. Onder lid 1 wordt verstaan: wanneer jij verdacht lang binnen 100 meter van een locatie bent zonder goede aanleiding. Dit geldt ook voor overheidsdiensten.
-3. Het campen bij de openbare witwas is wel toegestaan binnen 100 meter, dit is een warzone.
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
