@@ -66,6 +66,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Vuilniswagen
  * Peugeot 205 Turbo 16 Rally
  * Mini R60 Countryman
+ * Ford E350 WEED EDITION
 
 ### Off-road wegen
  * 3XB Lucky Buggy
