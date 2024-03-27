@@ -64,6 +64,8 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Bmw X5 Prior Edition
  * Audi RSQ3 Mansory Evo
  * Vuilniswagen
+ * Peugeot 205 Turbo 16 Rally
+ * Mini R60 Countryman
 
 ### Off-road wegen
  * 3XB Lucky Buggy
@@ -111,4 +113,8 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Vanztra Trailer
  * Bmw X5 Prior Edition (alleen met off-road banden)
  * Brabus G63 AMG 6x6
+ * Tesla Cybertruck
+ * KTM SM
+ * Peugeot 205 Turbo 16 Rally (alleen met off-road banden)
+ * Mini R60 Countryman (alleen met off-road banden)
 
