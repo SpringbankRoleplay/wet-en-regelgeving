@@ -542,8 +542,6 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 
 1. Het is voor overheidsmedewerkers niet toegestaan om te schieten vanuit een voertuig indien hun een wapen dragen voor de uitvoering van hun dienst.
 2. Een uitzondering op lid 1 is voor leden van de DSI met een specialistische training.
-3. Het is voor zowel politie en kmar niet toegestaan om op banden te schieten van een voertuig dat harder dan rond de 150 km/h rijdt, evenals vanuit criminelen richting politie en kmar. Bij criminelen onderling gelden hier geen regels voor. (het is aan de staff om hierop een besluit te nemen, het moet realistisch zijn.)
-4. Een uitzondering op lid 3 is voor leden van de DSI met een specialistische training.
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
