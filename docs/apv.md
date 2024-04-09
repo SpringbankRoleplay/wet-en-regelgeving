@@ -46,6 +46,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
     * Het carryen van een persoon.
     * Het verwerken of verkopen in een voertuig.
     * Onder dwang iemands voertuig uit zijn garage laten halen, behalve wanneer die specifieke auto aantoonbaar gezien is bij een illegale activiteit en je diegene duidelijk hebt achtervolgt.
+    
 
 ### Artikel 1 - Fail-RP (geen intentie tot roleplay).
 Enkele voorbeelden van geen intentie tot roleplay zijn:
@@ -67,7 +68,8 @@ Straf ⇨ Categorie 7: permanente ban
     * Autoclickers
     * Het gebruik van bestandsschoonmaakprogramma's, zoals CCleaner, is niet toegestaan
 3. Op verdenking van het gebruik van cheats in het breedste begrip kan het managementteam het besluit nemen een straf namens de 7e categorie op te leggen zonder dat hier direct bewijs voor is.
-4. Springbank Roleplay werkt conform de privacyregeling. Besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen. We voeren geen (integrale) PC-checks uit, tenzij dit wordt goedgekeurd door een managementlid. Deze PC-checks zijn niet verplicht, maar bieden de mogelijkheid om je onschuld aan te tonen.
+4. Zijn er meer dan 2 mensen verbannen voor cheats in je groepering, is er een mogelijkheid dat je gehele groep verbannen wordt voor cheats, tenzij je ons op de hoogte hebt gesteld.
+5. Springbank Roleplay werkt conform de privacyregeling. Besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen. We voeren geen (integrale) PC-checks uit, tenzij dit wordt goedgekeurd door een managementlid. Deze PC-checks zijn niet verplicht, maar bieden de mogelijkheid om je onschuld aan te tonen.
 
 > Straf ⇨ Categorie 7: permanente ban
 
@@ -273,6 +275,7 @@ Straf ⇨ Categorie 7: permanente ban
 2. Het is niet toegestaan om doorzichtige lichaamsdelen zoals armen, benen of torso te hebben.
 3. Het is zaak om ervoor te zorgen dat jouw armen niet door jouw t-shirt heenkomen.
 4. Het is niet toegestaan om kleding van overheidsdiensten te dragen, als je daar niet werkt.
+5. Indien je naakt (in enkel je ondergoed) over straat loopt, kan de politie je controleren.
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
@@ -443,6 +446,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 	* Maximaal 6 overvallers bij de grote bank.
 8. Hypercars en supercars mogen niet gebruikt worden bij overvallen. De Porsche Cayenne Hybrid Coupe valt hier ook onder. 
 9. Een overval mag gecountered worden, totdat de politie een afzetting  neergezet heeft.
+10. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
@@ -527,7 +531,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 
 1. Het is nooit toegestaan om goederen in Springbank (in de breedste zin) te verkopen, kopen of ruilen tegen echt geld en/of goederen buiten het spel om. 
 2. Het is ook niet toegestaan donatievoertuigen te ruilen voor andere (donatie)spullen.
-3. Het is niet toegestaan goederen van andere spelers aan te nemen of spullen weg te geven, wanneer deze de stad uit gaat, indien deze goederen gekocht zijn met echt geld.
+3. Het is niet toegestaan goederen van andere spelers aan te nemen of spullen weg te geven, wanneer deze de stad uit gaat. Dit geldt voor ALLE goederen. 
 4. Hieronder wordt ook het aanbieden of vragen naar verstaan.
 5. Het vragen naar startersgeld e.d. is niet toegestaan. 
 
