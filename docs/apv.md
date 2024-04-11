@@ -327,7 +327,7 @@ Straf ⇨ Categorie 7: permanente ban
 	* Burgers die zich bevinden bij het gemeentehuis.
 	* Voorwerpen en/of dienstwapens die bij de uitvoering van een overheidsbaan toebehoren.
 	* Voertuigen in elke vorm.
-        * Het leeghalen van kluizen en/of het pakken van andermans spullen
+ * Het leeghalen van kluizen en/of het pakken van andermans spullen
 	* Onder dwang iemand zijn huis betreden en leegroven.
       
 4. Je mag alleen scammen/oplichten, indien hetgene wat je wilt scammen illegale goederen betreft, jij een wapen vast hebt en je er een roleplay scenario aan vastbindt. Het mag dus enkel als volgt:
