@@ -67,6 +67,13 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Peugeot 205 Turbo 16 Rally
  * Mini R60 Countryman
  * Ford E350 WEED EDITION
+ * Cadillac Escalade Sport Platinum 2022 Mafia
+ * Range Rover SVR  Mansory Mafia
+ * Jeep Grand Cherokee Trackhawk GC800
+ * BMW X6M60I
+ * BMW X5M 2022
+ * Bentley Bentayga Speed 2021
+ * Audi RSQ8 Mansory
 
 ### Off-road wegen
  * 3XB Lucky Buggy
@@ -118,4 +125,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * KTM SM
  * Peugeot 205 Turbo 16 Rally (alleen met off-road banden)
  * Mini R60 Countryman (alleen met off-road banden)
+ * Cadillac Escalade Sport Platinum 2022 Mafia (alleen met off-road banden)
+ * Jeep Grand Cherokee Trackhawk GC800 (alleen met off-road banden)
+ * Cupra Formentor Offroad
 
