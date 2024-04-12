@@ -528,6 +528,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 3. Het is voor de leiding van overheidsorganisaties en criminele organisaties de verantwoordelijkheid om toezicht te houden op deze wachttijden.
 
 ### Artikel 43 - Real life trading
+Indien u een van deze punten begaat, zullen de goederen in beslag worden genomen en zal er geen refund meer worden gegeven.
 
 1. Het is nooit toegestaan om goederen in Springbank (in de breedste zin) te verkopen, kopen of ruilen tegen echt geld en/of goederen buiten het spel om. 
 2. Het is ook niet toegestaan donatievoertuigen te ruilen voor andere (donatie)spullen.
