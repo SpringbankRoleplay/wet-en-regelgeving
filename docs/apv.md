@@ -173,7 +173,6 @@ Straf ⇨ Categorie 7: permanente ban
 1. Het is niet toegestaan om onrealistische rijstijlen aan te nemen.
 2. Enkele voorbeelden hiervan zijn, maar niet beperkt tot:
 	* Het onnodig rammen en/of beuken van andere voertuigen zonder goede aanleiding.
-	* Indien je een lekke band hebt harder dan 80km/u rijden. Als je band helemaal van je velg af is en je dus op je velgen rijdt mag je niet verder rijden.
 	* Met meer dan 250km/u over Blokkenpark of dergelijk rijden zonder goede aanleiding.
 	* Gebruik maken van de zogenoemde 'jumps' of 'ramps' verpreid door de stad.
 	* Met een sportwagen over een onverharde weg rijden.
@@ -523,7 +522,6 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 | *Van*  | *Naar*  | *Wachttijd*  |
 |---|---|---|
 | Overheidsbaan | Overheidsbaan | 7 kalenderdagen |
-| Overheidsbaan  | Criminele organisatie  | 7 kalenderdagen |
 | Criminele organisatie | Overheidsbaan | 7 kalenderdagen |
 
 2. Een uitzondering op de in lid 1 benoemde wachttijden kan worden genomen door het managementteam.
@@ -543,13 +541,6 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 
 1. Refunds worden alleen gegeven indien er genoeg bewijsmateriaal aanwezig is waaruit blijkt dat je betreffende voorwerpen, valuta of dergelijk op een oneerlijke manier kwijt bent geraakt. Het admin- en het managementteam behouden zich het recht om een beslissing te maken op basis van ontbrekend bewijs, server logs of dergelijk.
 2. Indien het admin- en/of managementteam besluiten dat de betreffende voorwerpen, valuta of dergelijk is verloren door eigen schuld kan de refund worden afgekeurd.
-
-### Artikel 45 - Driveby
-
-1. Het is voor overheidsmedewerkers niet toegestaan om te schieten vanuit een voertuig indien hun een wapen dragen voor de uitvoering van hun dienst.
-2. Een uitzondering op lid 1 is voor leden van de DSI met een specialistische training.
-
-> Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
 ### Artikel 46 - Bedrijven/huizen
 
