@@ -46,6 +46,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
     * Het carryen van een persoon.
     * Het verwerken of verkopen in een voertuig.
     * Onder dwang iemands voertuig uit zijn garage laten halen, behalve wanneer die specifieke auto aantoonbaar gezien is bij een illegale activiteit en je diegene duidelijk hebt achtervolgt.
+    * AFK staan is op eigen risico
     
 
 ### Artikel 1 - Fail-RP (geen intentie tot roleplay).
@@ -471,6 +472,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 9. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
 10. Het is niet toegestaan om na een overval met een auto of motor in of achter de achtervolging aan te rijden.
 11. Indien iemand overduidelijk op een illegale locatie gezien is en je de achtervolging aangaat mag je bandjes schieten. Word je achtervolgd? Dan moet je duidelijk kunnen aantonen dat je achtervolgt wordt. Denk aan omkeren en vervolgens alsnog achtervolgt worden. Kan je dit aantonen? Dan mag je schieten. Dit blijft op bepaling van staff.
+12. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken. 
 
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
