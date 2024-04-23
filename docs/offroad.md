@@ -128,4 +128,5 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Cadillac Escalade Sport Platinum 2022 Mafia (alleen met off-road banden)
  * Jeep Grand Cherokee Trackhawk GC800 (alleen met off-road banden)
  * Cupra Formentor Offroad
+ * Brabus G900 Przemo
 
