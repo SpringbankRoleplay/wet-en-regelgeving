@@ -37,7 +37,6 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Jeep Grand Cherokee Supercharger
  * Range Rover Sport SVR
  * Bmw X5M 2020
- * 2021 Land Rover Defender 110
  * Porsche Macan Prior Design
  * Volkswagen Touareg R50
  * Jeep Trackhawk
@@ -129,4 +128,5 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Jeep Grand Cherokee Trackhawk GC800 (alleen met off-road banden)
  * Cupra Formentor Offroad
  * Brabus G900 Przemo
+ * 2021 Land Rover Defender 110
 
