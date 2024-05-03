@@ -71,6 +71,7 @@ Straf ⇨ Categorie 7: permanente ban
 3. Op verdenking van het gebruik van cheats in het breedste begrip kan het managementteam het besluit nemen een straf namens de 7e categorie op te leggen zonder dat hier direct bewijs voor is.
 4. Zijn er meer dan 2 mensen verbannen voor cheats in je groepering, is er een mogelijkheid dat je gehele groep verbannen wordt voor cheats, tenzij je ons op de hoogte hebt gesteld.
 5. Springbank Roleplay werkt conform de privacyregeling. Besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen. We voeren geen (integrale) PC-checks uit, tenzij dit wordt goedgekeurd door een managementlid. Deze PC-checks zijn niet verplicht, maar bieden de mogelijkheid om je onschuld aan te tonen.
+6. Uitgezoomed schieten is niet toegestaan! Dit i.v.m. crosshairs. Wordt er een ticket aangemaakt waarin we zien dat dit wel het geval is, dan wordt deze direct afgekeurd.
 
 > Straf ⇨ Categorie 7: permanente ban
 
@@ -473,7 +474,9 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 10. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
 11. Het is niet toegestaan om na een overval met een auto of motor in of achter de achtervolging aan te rijden.
 12. Indien iemand overduidelijk op een illegale locatie gezien is en je de achtervolging aangaat mag je bandjes schieten. Word je achtervolgd? Dan moet je duidelijk kunnen aantonen dat je achtervolgt wordt. Denk aan omkeren en vervolgens alsnog achtervolgt worden. Kan je dit aantonen? Dan mag je schieten. Dit blijft op bepaling van staff.
-13. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken. 
+13. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
+14. Er mag geen KMAR meer ontvoerd worden voor het terugkrijgen wapens, nadat deze zijn afgenomen door de overheidsinstanties. Dit is enkel toegestaan op de volgende manier:
+      * Om wapens terug te kunnen eisen, mogen alleen Hoofd-agenten of hoger ontvoerd worden. Dit valt te achterhalen via de strepen op de kleding. Er zijn meerdere manieren om te achterhalen welke rang iemand is. LET OP: Het is niet de bedoeling om elke agent van de straat te halen, om diens rang te checken.
 
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
