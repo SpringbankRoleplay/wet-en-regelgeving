@@ -448,7 +448,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 	* Maximaal 5 overvallers bij een juwelier.
 	* Maximaal 6 overvallers bij de grote bank.
 8. Hypercars en supercars mogen niet gebruikt worden bij overvallen. De Porsche Cayenne Hybrid Coupe valt hier ook onder. 
-9. Een overval mag gecountered worden, totdat de politie een afzetting  neergezet heeft.
+9. Een overval mag gecountered worden, totdat de politie een afzetting neergezet heeft en deze afzetting KLAAR is.
 10. Je mag iemand maximaal 30 minuten gehostaged houden totdat het roleplay scenario gestart wordt (gijzeling voor wraak redenen valt hier niet onder).
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
