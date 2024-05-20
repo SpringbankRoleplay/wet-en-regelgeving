@@ -540,7 +540,8 @@ Indien u een van deze punten begaat, zullen de goederen in beslag worden genomen
 2. Het is ook niet toegestaan donatievoertuigen te ruilen voor andere (donatie)spullen.
 3. Het is niet toegestaan goederen van andere spelers aan te nemen of spullen weg te geven, wanneer deze de stad uit gaat. Dit geldt voor ALLE goederen. 
 4. Hieronder wordt ook het aanbieden of vragen naar verstaan.
-5. Het vragen naar startersgeld e.d. is niet toegestaan. 
+5. Het vragen naar startersgeld e.d. is niet toegestaan.
+6. De enige uitzondering op dit artikel geldt voor dono interieur, deze mogen in game verkocht worden mits de prijs realistisch is. 
 
 > Straf ⇨ Categorie 7: een permanente ban
 
