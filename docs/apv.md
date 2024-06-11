@@ -181,6 +181,7 @@ Straf ⇨ Categorie 7: permanente ban
 	* Met je voertuig gebouwen inrijden, die hier niet voor bedoeld zijn.
   	* Een voertuig mag geen lichter voertuig pitten of brake checken, de volgorde gaat als volgt: 1: Motorvoertuigen \ 2: Sportauto’s en hypercars \ 3: Personenauto’s, zoals Sedan en Coupes \ 4: SUV’s \ 5: Bussen en vrachtwagens.
 3. Het is alleen toegestaan om af te wijken van de geasfalteerde wegen indien het voertuig dat je gebruikt voldoet aan de classificatie die is gesteld aan het betreffende type terrein. Voertuigen die zich buiten de geasfalteerde wegen mogen bevinden en hun classificaties zijn te raadplegen door hier te klikken.
+4. Het is alleen toegestaan om met je vliegtuig/heli te landen op helipads of landingsbanen.
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
