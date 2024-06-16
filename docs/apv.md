@@ -166,7 +166,7 @@ Straf ⇨ Categorie 7: permanente ban
 
 1. Het is niet toegestaan om zonder goede aanleiding iemand van het leven te beroven. Dit wordt verstaan onder Random Deathmatch ('RDM').
 2. Een stafflid heeft ten alle tijde het recht te bepalen of de aanleiding terecht is geweest of niet.
-3. Mocht het in hetzelfde tijdsbestek vaker gebeuren dat een persoon zonder goede aanleiding mensen van het leven beroofd kan een stafflid besluiten om het gebruikte wapen in beslag te nemen.
+3. Indien een persoon zonder goede aanleiding mensen van het leven beroofd kan een stafflid besluiten om het gebruikte wapen in beslag te nemen.
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
@@ -203,6 +203,7 @@ Straf ⇨ Categorie 7: permanente ban
 	* Als je iemand met een mes in je hand /th hebt, mag er op je geschoten worden met een pistol of hoger.
 	* Als je iemand met een pistol in je hand /th hebt, mag er op je geschoten worden met een wapen groter dan een pistol.
 4. Een staflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
+5. Indien er vaker NVOL gepleegd wordt, staat daar een boete op van 10k. 
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
@@ -241,6 +242,7 @@ Straf ⇨ Categorie 7: permanente ban
 7. Het is niet toegestaan meerdere tickets aan te maken over hetzelfde scenario, of om een second opinion aan te vragen over unban tickets of refund tickets. Hier staat een ban van 1 dag op.
 8. In geen enkel geval is het toegestaan om eigenaren en/of staff een dm te sturen over een staffzaak. Gebeurt dit wel, dan staat daar een straf op van een ban voor 2 dagen.
 9. Het liegen tegen staff, of het bedreigen en beledigen van staff, is niet toegestaan.
+10. Vermeldt in een report duidelijk waarom je de report aangemaakt hebt. Reports als ""rdmrdm, vdmvdm, kloter, staff nodig, kan staff komen" etc worden direct gesloten. 
 
 > Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
 
