@@ -484,7 +484,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
-### Artikel 49 - Witwassen
+### Artikel 40 - Witwassen
 
 1. Witwassers overvallen is toegestaan wanneer minimaal één van onderstaande punten van toepassing is.
 	* De persoon gezichtsbedekking of beschermende kleding zoals een body armor draagt.
@@ -492,12 +492,16 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 	* De overvaller dient op het moment van overvallen beelden te kunnen overhandigen aan de staffleden. Mocht dit niet mogelijk zijn zal het direct teruggedraait worden en zal er een straf komen van de 1e categorie.
 	* Het campen of opwachten op witwas locaties en het depot is verboden.
  	* Wanneer je een toeter hoort van een stilstaande vuilniswagen mag je hem rippen.
+2. Je mag handelen op de meldingen vanuit de witwas app op de volgende manieren:
+    	* Wanneer het kenteken overeenkomt met het kenteken die je hebt ontvangen in de melding.
+   	* De melding moet geclipt zijn.
+   	* De witwasser mag alleen overvallen worden binnen een tijdsbestek van een uur.
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
 ## Overige bepalingen
 
-### Artikel 39 - Bodycams
+### Artikel 41 - Bodycams
 
 1. Het gebruik van body- en/of dashcam beelden in een roleplay scenario is alleen toegestaan indien deze aan de volgende voorwaarden voldoen:
     * Overheidsmedewerkers dienen een bodycam te dragen om het te kunnen gebruiken.
@@ -507,7 +511,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
-### Artikel 40 - Herkenning
+### Artikel 42 - Herkenning
 
 1. Het is alleen toegestaan om iemand aan zijn/haar stem te herkennen, indien dit onder de volgende voorwaarden valt:
     * Je moet de persoon daadwerkelijk kennen. Het herkennen van een stem van een content creator is bijvoorbeeld niet toegestaan.
@@ -519,12 +523,12 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
-### Artikel 41 - Streamsniping
+### Artikel 43 - Streamsniping
 
 1. Het is niet toegestaan om informatie te gebruiken die je hebt verkregen uit een livestream van een content creator. Als je actief deze persoon opzoekt, probeert te benaderen of ons op een andere manier duidelijk wordt dat jij informatie verkrijgt via een livestream zal je een straf krijgen volgens de 5e categorie.
 
 
-### Artikel 42 - Wisselen van baan
+### Artikel 44 - Wisselen van baan
 
 1. De volgende wachttijden zijn van toepassing indien je wilt wisselen van baan:
 
@@ -536,7 +540,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 2. Een uitzondering op de in lid 1 benoemde wachttijden kan worden genomen door het managementteam.
 3. Het is voor de leiding van overheidsorganisaties en criminele organisaties de verantwoordelijkheid om toezicht te houden op deze wachttijden.
 
-### Artikel 43 - Real life trading
+### Artikel 45 - Real life trading
 Indien u een van deze punten begaat, zullen de goederen in beslag worden genomen en zal er geen refund meer worden gegeven.
 
 1. Het is nooit toegestaan om goederen in Springbank (in de breedste zin) te verkopen, kopen of ruilen tegen echt geld en/of goederen buiten het spel om. 
@@ -548,12 +552,12 @@ Indien u een van deze punten begaat, zullen de goederen in beslag worden genomen
 
 > Straf ⇨ Categorie 7: een permanente ban
 
-### Artikel 44 - Refunds
+### Artikel 46 - Refunds
 
 1. Refunds worden alleen gegeven indien er genoeg bewijsmateriaal aanwezig is waaruit blijkt dat je betreffende voorwerpen, valuta of dergelijk op een oneerlijke manier kwijt bent geraakt. Het admin- en het managementteam behouden zich het recht om een beslissing te maken op basis van ontbrekend bewijs, server logs of dergelijk.
 2. Indien het admin- en/of managementteam besluiten dat de betreffende voorwerpen, valuta of dergelijk is verloren door eigen schuld kan de refund worden afgekeurd.
 
-### Artikel 46 - Bedrijven/huizen
+### Artikel 47 - Bedrijven/huizen
 
 1. Het is niet toegestaan voor groeperingen die bij elkaar horen om twee bedrijven in hun bezit te hebben.
 2. Het is niet toegestaan om tijdens een eigen transport de wapens / geld te rippen van het waardetransport.
@@ -561,7 +565,7 @@ Indien u een van deze punten begaat, zullen de goederen in beslag worden genomen
 
 > Straf ⇨ Categorie 5: een ban van maximaal 1 week
 
-### Artikel 47 - Greenzone
+### Artikel 48 - Greenzone
 
 1. Binnen de greenzone is het ten strengste verboden om mensen te ontvoeren, te bedreigen of op andere wijze hun vrijheid te beperken. Het respecteren van de persoonlijke veiligheid en vrijheid van anderen is essentieel om een veilige en vreedzame omgeving te behouden.
 2. Binnen de greenzone is het gebruik van geweld strikt gereguleerd. Schieten is alleen toegestaan in specifieke scenario's waarin een andere situatie binnen de greenzone verder escaleert en als een laatste redmiddel om levens te beschermen. Alle andere vormen van geweld zijn niet toegestaan en moeten worden vermeden om een vreedzame omgeving te handhaven.
@@ -571,7 +575,7 @@ Indien u een van deze punten begaat, zullen de goederen in beslag worden genomen
 	* Ziekenhuis
 	* Gemeentehuis
   
-### Artikel 48 - Graphic packs
+### Artikel 49 - Graphic packs
 Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen een oneerlijk voordeel opleveren of de spelervaring voor anderen negatief beïnvloeden. Daarom is het gebruik van de volgende soorten graphic packs en beeldscherminstellingen verboden:
 
 1. Permanente Daglicht Packs: Het is niet toegestaan om graphic packs te gebruiken die ervoor zorgen dat het in de virtuele omgeving altijd licht is, zodoende het nacht-en-dag cyclus te omzeilen.
