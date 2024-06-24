@@ -494,7 +494,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
  	* Wanneer je een toeter hoort van een stilstaande vuilniswagen mag je hem rippen.
 2. Je mag handelen op de meldingen vanuit de witwas app op de volgende manieren:
    
-    	* Wanneer het kenteken overeenkomt met het kenteken die je hebt ontvangen in de melding.
+   	* Wanneer het kenteken overeenkomt met het kenteken die je hebt ontvangen in de melding.
    	* De melding moet geclipt zijn.
    	* De witwasser mag alleen overvallen worden binnen een tijdsbestek van een uur.
 
