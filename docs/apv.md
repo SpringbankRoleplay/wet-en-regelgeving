@@ -476,9 +476,8 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 9. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoord, dien je de spullen te droppen. 
 10. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
 11. Het is niet toegestaan om na een overval met een auto of motor in of achter de achtervolging aan te rijden.
-12. Indien iemand overduidelijk op een illegale locatie gezien is en je de achtervolging aangaat mag je bandjes schieten. Word je achtervolgd? Dan moet je duidelijk kunnen aantonen dat je achtervolgt wordt. Denk aan omkeren en vervolgens alsnog achtervolgt worden. Kan je dit aantonen? Dan mag je schieten. Dit blijft op bepaling van staff.
-13. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
-14. Er mag geen KMAR meer ontvoerd worden voor het terugkrijgen wapens, nadat deze zijn afgenomen door de overheidsinstanties. Dit is enkel toegestaan op de volgende manier:
+12. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
+13. Er mag geen KMAR meer ontvoerd worden voor het terugkrijgen wapens, nadat deze zijn afgenomen door de overheidsinstanties. Dit is enkel toegestaan op de volgende manier:
       * Om wapens terug te kunnen eisen, mogen alleen Hoofd-agenten of hoger ontvoerd worden. Dit valt te achterhalen via de strepen op de kleding. Er zijn meerdere manieren om te achterhalen welke rang iemand is. LET OP: Het is niet de bedoeling om elke agent van de straat te halen, om diens rang te checken.
 
 
