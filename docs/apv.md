@@ -24,7 +24,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 3. Enkele voorbeelden van FailRP en Powergaming zijn hieronder beschreven, maar niet beperkt tot:
     * Niet meewerken aan een roleplayscenario.
-    * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je je voertuig kwijtraakt. Mocht je van voertuig willen wisselen in een achtervolging moet je het oude voertuig dus laten staan.
+    * Tijdens een achtervolging je voertuig in de garage zetten om te voorkomen dat je herkend wordt. Mocht je van voertuig willen wisselen in een achtervolging moet je het oude voertuig dus laten staan.
     * Geen realistische reactie hebben op eventuele verwondingen en/of andere medische situaties, zoals een crash boven de 100km/u of wanneer je auto over de kop vliegt.
     * Misbruik maken van het F6-menu door bijvoorbeeld iemand te fouilleren zonder dit aan te geven.
     * Voor een onrealistisch lange tijd blijven zwemmen in het water. Deze tijd is op oordeel van een staflid.
