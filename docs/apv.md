@@ -319,7 +319,7 @@ Straf ⇨ Categorie 7: permanente ban
 1. Het is alleen toegestaan om iemand te overvallen en/of te bestelen indien deze persoon bezig is met criminele activiteiten
         A. Hier moet je concreet (aantoonbaar) bewijs van hebben (beeldmateriaal), ook als iemand een call maakt.
 2. Onder criminele activiteiten in deze context worden onder andere de volgende voorbeelden verstaan:
-	* Activiteiten rondom drugs, overvallen of witwassen (Let op: enkel rijden in een camper, of het overladen van drugsgerelateerde spullen, hoort hier niet bij. Je moet diegene aantoonbaar hebben zien staan op een illegale locatie, zoals de pluk en verwerk, of horen praten over illegale praktijken.)
+	* Activiteiten rondom drugs, overvallen of witwassen (Let op: enkel rijden in een camper, of het overladen van drugsgerelateerde spullen, hoort hier niet bij. Je moet diegene aantoonbaar hebben zien staan op een illegale locatie, zoals de pluk en verwerk, of horen praten over illegale praktijken).
 	* Het dragen van volledig gezichtsbedekkende kleding (motorhelm wanneer iemand op een motor rijdt telt hierbij niet).
 	* Het dragen van een kogelwerend vest.
 	* Het dragen van een wapenholster.
