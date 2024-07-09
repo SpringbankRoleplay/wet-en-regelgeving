@@ -82,6 +82,7 @@ Straf ⇨ Categorie 7: permanente ban
 3. Voorbeelden van bugs/exploits zijn: misbruiken van bepaalde animaties (zoals het schoppen vanaf een motor of emote bug abuse om te glitchen), dupliceren van items, etc.
 4. Wanneer het managementteam van mening is dat het misbruik van de bug en/of exploit te veel invloed heeft op de economie, kunnen zij besluiten om af te wijken van de standaard strafmaatregelen. In dit geval zal er een grondig onderzoek plaatsvinden naar de omstandigheden en gevolgen van het misbruik. Op basis van dit onderzoek kan er besloten worden om af te zien van de standaard strafmaatregelen en een passende alternatieve maatregel te nemen.
 
+
 > Straf ⇨ Categorie 6: een ban van maximaal 1 maand
 
 ### Artikel 4 - Verstoren roleplay
@@ -167,6 +168,7 @@ Straf ⇨ Categorie 7: permanente ban
 1. Het is niet toegestaan om zonder goede aanleiding iemand van het leven te beroven. Dit wordt verstaan onder Random Deathmatch ('RDM').
 2. Een stafflid heeft ten alle tijde het recht te bepalen of de aanleiding terecht is geweest of niet.
 3. Indien een persoon zonder goede aanleiding mensen van het leven beroofd kan een stafflid besluiten om het gebruikte wapen in beslag te nemen.
+4. Indien je iemand achtervolgt, diegene een waarschuwingsschot afvuurt en jij blijft achtervolgen, dan mag jij beschoten worden. Hiermee neem je zelf een risico. Dit is GEEN RDM.
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
@@ -203,7 +205,8 @@ Straf ⇨ Categorie 7: permanente ban
 	* Als je iemand met een mes in je hand /th hebt, mag er op je geschoten worden met een pistol of hoger.
 	* Als je iemand met een pistol in je hand /th hebt, mag er op je geschoten worden met een wapen groter dan een pistol.
 4. Een staflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
-5. Indien er vaker NVOL gepleegd wordt, staat daar een boete op van 10k. 
+5. Indien er vaker NVOL gepleegd wordt, staat daar een boete op van 10k.
+   
 
 > Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
 
