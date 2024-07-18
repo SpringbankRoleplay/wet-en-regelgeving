@@ -397,8 +397,8 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 1. Het is de verplichting van de OC ('Operationeel Centrum') van de de politie en/of de KMar om een juiste en realistische inschatting te maken hoeveel agenten er nodig zijn voor een overval.
 2. Je krijgt per hostage 2 eisen. Er zit een max van 8 eisen bij een overval.
 3. Het is niet toegestaan om hostages te pakken op de volgende plekken:
-  * In de kledingwinkel in het kledingmenu
-  * Locaties waar werkzaamheden gestart en beëindigd worden 
+    * In de kledingwinkel in het kledingmenu
+    * Locaties waar werkzaamheden gestart en beëindigd worden 
 
 ### Artikel 31 - Wraak en liquidaties
 
