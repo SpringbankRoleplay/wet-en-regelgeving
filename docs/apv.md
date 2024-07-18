@@ -319,6 +319,16 @@ Straf ⇨ Categorie 7: permanente ban
 
 ## Overtredingen - Criminele activiteiten
 
+### Informatie Criminele activiteiten
+1. Als de recherche voldoende bewijs heeft om een ganghuis binnen te vallen, mogen ze 50% van de gangkluis afpakken + de wapens en inventory van de personen binnen meenemen.
+2. De voorwaardelijke straffen zijn als volgt, bij het volgende op zak:
+   * Drugs vanaf 100 stuks > De politie heeft 7 dagen tijd om maximaal 3 autos uit garage random te doorzoeken
+   * Drugs vanaf 300 stuks > De politie heeft 7 dagen tijd om maximaal 5 autos en 1 woning random te doorzoeken
+   * Meelee wapen >  De politie heeft 7 dagen de tijd om maximaal 3 voertuigen te doorzoeken
+   * Hand Vuurwapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen te doorzoeken.
+   * Semi automatisch wapen > De politie heeft 7 dagen de tijd om maximaal 5 voertuigen en 1 woning te doorzoeken 
+   * Vol automaat wapen> De politie heeft 7 dagen de tijd om maximaal 5 voertuigen en 3 woningen te doorzoeken
+
 ### Artikel 26 - Overvallen & Oplichten
 
 1. Het is alleen toegestaan om iemand te overvallen en/of te bestelen indien deze persoon bezig is met criminele activiteiten
@@ -385,7 +395,10 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 ### Artikel 30 - Overval Regels
 
 1. Het is de verplichting van de OC ('Operationeel Centrum') van de de politie en/of de KMar om een juiste en realistische inschatting te maken hoeveel agenten er nodig zijn voor een overval.
-2. Je krijgt per hostage 2 eisen. Er zit een max van 8 eisen bij een overval. 
+2. Je krijgt per hostage 2 eisen. Er zit een max van 8 eisen bij een overval.
+3. Het is niet toegestaan om hostages te pakken op de volgende plekken:
+  * In de kledingwinkel in het kledingmenu
+  * Locaties waar werkzaamheden gestart en beëindigd worden 
 
 ### Artikel 31 - Wraak en liquidaties
 
