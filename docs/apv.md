@@ -33,6 +33,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
     * Misbruik maken van de emote-functionaliteit.
 	* Meth koken in een rijdend voertuig of terwijl je onder een dak/tunnel staat. Dit mag ook niet op het treinspoor.
     * Een agent ontvoeren om een signalering te verwijderen of om iets te bekijken in het politiesysteem (MEOS).
+    * Meteen iemand handsuppen, nadat diegene omhoog gehaald is door de ambulance. Laat het ambulance eerst hun werk doen. (Dit geldt ook voor degene die omhoog gehaald wordt!)
     * Het dwingen van politiemedewerkers om een bewusteloos persoon te fouilleren en items, zoals wapens, af te nemen en af te geven aan jou of iemand anders.
     * Het gebruik maken van persoonlijke keybinds om bijvoorbeeld /me of /th te doen.
     * Het zonder aanleiding overvallen van medewerkers van de ambulancezorg om bijvoorbeeld wapens te krijgen.
