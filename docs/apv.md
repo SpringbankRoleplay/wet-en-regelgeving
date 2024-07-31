@@ -69,6 +69,7 @@ Straf ⇨ Categorie 7: permanente ban
     * Macro keys
     * Autoclickers
     * Het gebruik van bestandsschoonmaakprogramma's, zoals CCleaner, is niet toegestaan
+    * Privazer
 3. Op verdenking van het gebruik van cheats in het breedste begrip kan het managementteam het besluit nemen een straf namens de 7e categorie op te leggen zonder dat hier direct bewijs voor is.
 4. Zijn er meer dan 2 mensen verbannen voor cheats in je groepering, is er een mogelijkheid dat je gehele groep verbannen wordt voor cheats, tenzij je ons op de hoogte hebt gesteld.
 5. Springbank Roleplay werkt conform de privacyregeling. Besluiten worden dus ook genomen op basis van videomateriaal en informatiebronnen. We voeren geen (integrale) PC-checks uit, tenzij dit wordt goedgekeurd door een managementlid. Deze PC-checks zijn niet verplicht, maar bieden de mogelijkheid om je onschuld aan te tonen.
