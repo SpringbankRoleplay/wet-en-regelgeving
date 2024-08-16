@@ -28,6 +28,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Obey Rocoto
  * Pagassi Toros
  * Coil Khamel
+ * Karin Mogul RS (alleen met off-road banden)
 
 ### Off-road wegen
  * Vapid Contendor
@@ -53,4 +54,6 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Vapid Trophy
  * Declasse Draugur
  * Maibatsu Monstrociti
+ * Bollokan Pakunek (alleen met off-road banden)
+ * Bravado Bison
 
