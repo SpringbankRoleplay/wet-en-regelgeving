@@ -56,4 +56,5 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Maibatsu Monstrociti
  * Bollokan Pakunek (alleen met off-road banden)
  * Bravado Bison
+ * Nagasaki Bf400
 
