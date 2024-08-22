@@ -38,7 +38,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
     * Het gebruik maken van persoonlijke keybinds om bijvoorbeeld /me of /th te doen.
     * Het zonder aanleiding overvallen van medewerkers van de ambulancezorg om bijvoorbeeld wapens te krijgen.
     * Het controleren van kofferbakken zonder enige aanleiding, met uitzondering van op illegale locaties.
-    * Je mag niet zomaar spullen uit iemand zijn auto halen, zonder enige roleplay. Ook niet op illegale locaties. LET OP: Indien jij je auto open laat staan op een illegale locatie en iemand hier spullen uithaalt, krijg je geen refund. (Zie ook artikel 38, rippen).
+    * Je mag niet zomaar spullen uit iemand zijn auto halen, zonder enige roleplay. <b>Ook niet op illegale locaties.</b> LET OP: Indien jij je auto open laat staan op een illegale locatie en iemand hier spullen uithaalt, krijg je geen refund. (Zie ook artikel 38, rippen). Op onterecht stelen staat een ban van 3 dagen.
     * Het gebruiken van /me commands, zoals: /me duwt uit auto, /me doet auto open, /me pakt sleutels af, /me boeit vast, /me slaat knock out. Dit moet allemaal uitgesproken worden.
     * Het geven van een ‘’vergeet spuit’’ bestaat niet. Je kan wel een spuit toedienen of een drankje geven, dat iemand iets voor de komende 15 minuten vergeet. Daarna mag die persoon alles weer weten.
     * Het gebruiken van de Z-spier om spelers te vinden tijdens scenario’s.
@@ -210,7 +210,7 @@ Straf ⇨ Categorie 7: permanente ban
 5. Indien er vaker NVOL gepleegd wordt, staat daar een boete op van 10k.
    
 
-> Straf ⇨ Categorie 4: een ban van maximaal 3 dagen
+> Straf ⇨ Categorie 4: een ban van maximaal 5 dagen
 
 ### Artikel 15 - New Life Rule
 
