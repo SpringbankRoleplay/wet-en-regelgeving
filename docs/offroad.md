@@ -29,6 +29,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Pagassi Toros
  * Coil Khamel
  * Karin Mogul RS (alleen met off-road banden)
+ * Aanhanger
 
 ### Off-road wegen
  * Vapid Contendor
@@ -59,4 +60,6 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Nagasaki Bf400
  * Maibatsu Sanchez
  * Maibatsu Sanchez Sport
+ * Canis Gator 4x4
+ * Aanhanger (alleen met off-road banden)
 
