@@ -62,4 +62,6 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Maibatsu Sanchez Sport
  * Canis Gator 4x4
  * Aanhanger (alleen met off-road banden)
+ * Western	Cliffhanger
+ * Maibatsu	Manchez Safari
 
