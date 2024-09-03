@@ -30,6 +30,9 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Coil Khamel
  * Karin Mogul RS (alleen met off-road banden)
  * Aanhanger
+ * Albany Cavcade XL
+ * Bravado Gresley
+ * Lampadati Novak
 
 ### Off-road wegen
  * Vapid Contendor
@@ -64,4 +67,5 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Aanhanger (alleen met off-road banden)
  * Western	Cliffhanger
  * Maibatsu	Manchez Safari
-
+ * Annis Hellion
+ * Vapid Sandking
