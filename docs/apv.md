@@ -315,7 +315,7 @@ Straf ⇨ Categorie 7: permanente ban
 1. Indien je een voertuig inzet om een zogenoemde pit uit te voeren is dit alleen toegestaan als de snelheid lager is dan 100 km/u en moet dit op een verantwoorde wijze gaan.
 2. Het is niet toegestaan om een pit uit te voeren met een voertuig wat veel kleiner of lichter is als het voertuig dat gepit wordt.
 3. Het is niet toegestaan om een pit uit te voeren op een motor aangezien de kans op dodelijk letsel te groot is. Dit wordt gezien als VDM (Artikel 24 - VDM).
-3. Politieagenten van de landelijke eenheid verkeerspolitie en de dienst speciale interventies hebben een specialistische training gehad en mogen op uitzondering en alleen met toestemming van het OC een pit uitvoeren tot snelheden van 130 km/u.
+3. Politieagenten van de landelijke eenheid verkeerspolitie mogen een pit uitvoeren tot snelheden van 130 km/u. De dienst speciale interventies hebben een specialistische training gehad en mogen op uitzondering een pit uitvoeren tot snelheden van 150 km/u.
    
 > Straf ⇨ Categorie 2: een ban van maximaal 1 dag
 
