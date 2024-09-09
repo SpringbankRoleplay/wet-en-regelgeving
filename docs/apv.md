@@ -485,19 +485,17 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 
 ### Artikel 38 - Rippen
 
-1. Het is niet toegestaan om dezelfde persoon binnen een uur meerdere malen te overvallen en/of te gijzelen.
-2. Regel 1 geldt alleen voor drugs op een pluk locatie.
-3. Uitzondering op lid 1 is wanneer het slachtoffer in kwestie binnen het uur zijn kleding zodanig heeft veranderd dat hij niet meer te herkennen valt als eerst.
-4. Het is alleen toegestaan om iemand te rippen als deze bezig is met criminele praktijken zoals aangegeven in Artikel 26 - overvallen & oplichten.
-5. Iemand dwingen om zijn voertuig uit de garage te halen zonder scenario aan te gaan, is niet toegestaan.
-6. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan. 
-7. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
-8. Het is niet toegestaan om eigen geld te rippen dat wordt ingeleverd bij een waardetransport.
-9. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoord, dien je de spullen te droppen. 
-10. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
-11. Het is niet toegestaan om na een overval met een auto of motor in of achter de achtervolging aan te rijden.
-12. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
-13. Er mag geen KMAR meer ontvoerd worden voor het terugkrijgen wapens, nadat deze zijn afgenomen door de overheidsinstanties. Dit is enkel toegestaan op de volgende manier:
+1. Het is niet toegestaan om dezelfde persoon binnen een uur meerdere keren te overvallen en/of te gijzelen, behalve in het geval van drugs op een pluklocatie. Een uitzondering is wanneer het slachtoffer binnen het uur zijn kleding zodanig heeft veranderd dat hij niet meer te herkennen is.
+2. Het is alleen toegestaan om iemand te rippen als deze bezig is met criminele praktijken zoals aangegeven in Artikel 26 - overvallen & oplichten.
+3. Iemand dwingen om zijn voertuig uit de garage te halen zonder scenario aan te gaan, is niet toegestaan.
+4. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan. 
+5. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
+6. Het is niet toegestaan om eigen geld te rippen dat wordt ingeleverd bij een waardetransport.
+7. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoord, dien je de spullen te droppen. 
+8. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
+9. Het is niet toegestaan om na een overval met een auto of motor in of achter de achtervolging aan te rijden.
+10. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
+11. Er mag geen KMAR meer ontvoerd worden voor het terugkrijgen wapens, nadat deze zijn afgenomen door de overheidsinstanties. Dit is enkel toegestaan op de volgende manier:
       * Om wapens terug te kunnen eisen, mogen alleen Hoofd-agenten of hoger ontvoerd worden. Dit valt te achterhalen via de strepen op de kleding. Er zijn meerdere manieren om te achterhalen welke rang iemand is. LET OP: Het is niet de bedoeling om elke agent van de straat te halen, om diens rang te checken.
 
 
