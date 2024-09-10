@@ -121,7 +121,7 @@ Straf ⇨ Categorie 7: permanente ban
 	* Koninklijke Marechaussee
     * Ambulancezorg
     * Springbank Exclusive Cardealer
-    * ANWB
+    * Pechhulp
 
 > Straf ⇨ Categorie 1: een waarschuwing
 
@@ -364,7 +364,7 @@ Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop ve
 	* Politiekorps
 	* Koninklijke Marechaussee
 	* Ambulancezorg
-	* ANWB
+	* Pechhulp
 	* SPEC
 	* Ministerie van Justitie
 	* Gemeente Springbank
