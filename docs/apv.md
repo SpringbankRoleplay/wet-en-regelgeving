@@ -199,6 +199,7 @@ Straf ⇨ Categorie 7: permanente ban
 	* Het is niet toegestaan om weerstand te bieden tegen een slag- of steekwapen wanneer deze binnen een meter van jou is. Buiten een meter is het wel toegestaan om een vuurwapen te trekken. Een boksbeugel valt hier niet onder!
         * Het is niet toegestaan om al rijdend een ander voertuig te blokkeren. Je mag wel blokkeren, maar enkel als je stil staat.
 	* Het valt niet onder no value of life indien je met een slag- of steekwapen bedreigd wordt, terwijl je jezelf in een voertuig met gesloten ramen en deuren bevind.
+        * Je mag wegrijden van een tazer, behalve wanneer jij al getazerd bent.
 	* Schieten op iemand die een een vuur- of steekwapen heeft gericht op iemand via /th.
 	* Het is niet toegestaan om een zelfmoordscenario op te zetten.
 	* Indien je in je benen bent geschoten en de andere partij binnen shouting range staat, mag je niet meer op staan.
@@ -206,7 +207,7 @@ Straf ⇨ Categorie 7: permanente ban
 3. Op de tegenpartij schieten terwijl er iemand in /th vast zit, mag alleen als volgt:
 	* Als je iemand met een mes in je hand /th hebt, mag er op je geschoten worden met een pistol of hoger.
 	* Als je iemand met een pistol in je hand /th hebt, mag er op je geschoten worden met een wapen groter dan een pistol.
-4. Een staflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
+4. Een stafflid behoudt zich het recht om te besluiten of er sprake is van no value of life.
 5. Indien er vaker NVOL gepleegd wordt, staat daar een boete op van 10k.
    
 
