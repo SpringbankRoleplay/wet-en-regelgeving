@@ -1097,4 +1097,4 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 5. Het bewijs dat de verdachte het telastegelegde feit heeft gepleegd, kan worden aangenomen op alleen het proces-verbaal van een opsporingsambtenaar.
 6. Feiten of omstandigheden van algemene bekendheid behoeven geen bewijs.
 
-<sub><sup>Laatste revisie: 23/03/2023 - Bron: github.com/Tedeapolis/wet-en-regelgeving</sup></sub>
+<sub><sup>Laatste revisie: 23/03/2023
