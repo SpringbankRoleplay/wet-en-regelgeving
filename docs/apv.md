@@ -352,8 +352,9 @@ Straf ⇨ Categorie 7: permanente ban
 	* Onder dwang iemand zijn huis betreden en leegroven.
     * De inhoud van kluizen van verified of offi gangs.
       
-4. Je mag alleen scammen/oplichten, indien hetgene wat je wilt scammen illegale goederen betreft, jij een wapen vast hebt en je er een roleplay scenario aan vastbindt. Het mag dus enkel als volgt:
-Hoop verkoopt een wapen aan Lucifer, Lucifer ript het wapen van Hoop. OF Hoop verkoopt een wapen aan Lucifer. Lucifer geeft het geld aan Hoop en Hoop geeft het wapen aan Lucifer. Hoop heeft mensen in de bosjes staan en die komen na de deal en rippen het wapen weer van Lucifer. Er moet dus een wapen bij betrokken zijn en je moet iemand handsuppen. 
+4. Je mag alleen scammen als het om illegale goederen gaat, er een wapen bij betrokken is en je het in een roleplay scenario doet.
+	* Bijvoorbeeld: A verkoopt een wapen aan B, B ript het wapen, of A ript het terug met behulp van anderen. Hands up is vereist.
+	* Scams zijn alleen toegestaan tot een maximum van 2 miljoen. Dit betekent dat de totale waarde van de scam, inclusief goederen of geld, niet meer dan 2 miljoen mag bedragen.
 5. Het oplichten met auto’s is niet toegestaan. Hier valt onder het ruilen van auto’s, of het verkopen van auto’s en het voertuig niet geven. Ook het liegen over tunes en de staat van de auto is niet toegestaan.
 
 > Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
