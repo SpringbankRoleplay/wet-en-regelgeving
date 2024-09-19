@@ -351,7 +351,6 @@ Straf ⇨ Categorie 7: permanente ban
 	* Voertuigen in elke vorm.
 	* Onder dwang iemand zijn huis betreden en leegroven.
     * De inhoud van kluizen van verified of offi gangs.
-      
 4. Je mag alleen scammen als het om illegale goederen gaat, er een wapen bij betrokken is en je het in een roleplay scenario doet.
 	* Bijvoorbeeld: A verkoopt een wapen aan B, B ript het wapen, of A ript het terug met behulp van anderen. Hands up is vereist.
 	* Scams zijn alleen toegestaan tot een maximum van 2 miljoen. Dit betekent dat de totale waarde van de scam, inclusief goederen of geld, niet meer dan 2 miljoen mag bedragen.
