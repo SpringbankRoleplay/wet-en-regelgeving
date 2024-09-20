@@ -48,6 +48,7 @@ Een lid van het staffteam heeft de mogelijkheid om op basis van de context, situ
     * Het verwerken of verkopen in een voertuig.
     * Onder dwang iemands voertuig uit zijn garage laten halen, behalve wanneer die specifieke auto aantoonbaar gezien is bij een illegale activiteit en je diegene duidelijk hebt achtervolgt.
     * AFK staan is op eigen risico
+    * Het leksteken van een band mag alleen als je in een actief scenario met diegene bent. Ga je hier verkeerd mee om? Dan kan staff besluiten je mes in te nemen.
     
 
 ### Artikel 1 - Fail-RP (geen intentie tot roleplay).
