@@ -597,6 +597,7 @@ Indien u een van deze punten begaat, zullen de goederen in beslag worden genomen
 	* ANWB
 	* Ziekenhuis
 	* Gemeentehuis
+	* Botcoin coverter
   
 ### Artikel 49 - Graphic packs
 Het gebruik van bepaalde soorten graphic packs en beeldscherminstellingen kunnen een oneerlijk voordeel opleveren of de spelervaring voor anderen negatief beïnvloeden. Daarom is het gebruik van de volgende soorten graphic packs en beeldscherminstellingen verboden:
