@@ -249,7 +249,8 @@ Straf ⇨ Categorie 7: permanente ban
 7. Het is niet toegestaan meerdere tickets aan te maken over hetzelfde scenario, of om een second opinion aan te vragen over unban tickets of refund tickets. Hier staat een ban van 1 dag op.
 8. In geen enkel geval is het toegestaan om eigenaren en/of staff een dm te sturen over een staffzaak. Gebeurt dit wel, dan staat daar een straf op van een ban voor 2 dagen.
 9. Het liegen tegen staff, of het bedreigen en beledigen van staff, is niet toegestaan.
-10. Vermeldt in een report duidelijk waarom je de report aangemaakt hebt. Reports als ""rdmrdm, vdmvdm, kloter, staff nodig, kan staff komen" etc worden direct gesloten. 
+10. Vermeldt in een report duidelijk waarom je de report aangemaakt hebt. Reports als ""rdmrdm, vdmvdm, kloter, staff nodig, kan staff komen" etc worden direct gesloten.
+11. Indien je een klacht aanmaakt over RDM en dit blijkt wel een terechte actie te zijn geweest, ontvang je een time-out van 7 dagen in de Support Discord. 
 
 > Straf ⇨ Categorie 3: een ban van maximaal 2 dagen
 
@@ -495,12 +496,11 @@ Straf ⇨ Categorie 7: permanente ban
 5. Iemand dwingen om zijn voertuig uit de garage te halen zonder scenario aan te gaan, is niet toegestaan.
 6. Het is enkel toegestaan spullen uit iemands auto te pakken, indien je een wapen op diegene richt. Het meenemen van dat voertuig voor overladen en /leensleutel vragen is toegestaan. 
 7. Het is toegestaan om iemand te rippen bij een illegaal verkooppunt als deze persoon binnen 1 meter van de NPC staat.
-8. Het is niet toegestaan om eigen geld te rippen dat wordt ingeleverd bij een waardetransport.
-9. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoord, dien je de spullen te droppen. 
-10. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
-11. Het is niet toegestaan om na een overval met een auto of motor in of achter de achtervolging aan te rijden.
-12. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
-13. Er mag geen KMAR meer ontvoerd worden voor het terugkrijgen wapens, nadat deze zijn afgenomen door de overheidsinstanties. Dit is enkel toegestaan op de volgende manier:
+8. Het is niet toegestaan om iemand te rippen en daarna te vermoorden. Indien je iemand om een andere (geldige) reden wel vermoord, dien je de spullen te droppen. 
+9. Bij het rippen van personen is het belangrijk om geen overbodig geweld te gebruiken, tenzij je zeker weet dat de betreffende persoon ook gewapend is.
+10. Het is niet toegestaan om na een overval met een auto of motor in of achter de achtervolging aan te rijden.
+11. Airdrops mogen geript worden. Let op! Dit is geen combat gebied. Je mag rippen, maar geen onnodig geweld gebruiken.
+12. Er mag geen KMAR meer ontvoerd worden voor het terugkrijgen wapens, nadat deze zijn afgenomen door de overheidsinstanties. Dit is enkel toegestaan op de volgende manier:
       * Om wapens terug te kunnen eisen, mogen alleen Hoofd-agenten of hoger ontvoerd worden. Dit valt te achterhalen via de strepen op de kleding. Er zijn meerdere manieren om te achterhalen welke rang iemand is. LET OP: Het is niet de bedoeling om elke agent van de straat te halen, om diens rang te checken.
 
 
@@ -579,6 +579,8 @@ Indien u een van deze punten begaat, zullen de goederen in beslag worden genomen
 
 1. Refunds worden alleen gegeven indien er genoeg bewijsmateriaal aanwezig is waaruit blijkt dat je betreffende voorwerpen, valuta of dergelijk op een oneerlijke manier kwijt bent geraakt. Het admin- en het managementteam behouden zich het recht om een beslissing te maken op basis van ontbrekend bewijs, server logs of dergelijk.
 2. Indien het admin- en/of managementteam besluiten dat de betreffende voorwerpen, valuta of dergelijk is verloren door eigen schuld kan de refund worden afgekeurd.
+3. Indien je een refund ticket aanmaakt, omdat je iets bent kwijt geraakt, en er wordt gekeurd dat jij dit onterecht hebt aangevraagd (de spullen zijn legit kwijt geraakt), ontvang je een time-out van 7 dagen in de Support Discord.
+   
 
 ### Artikel 47 - Bedrijven/huizen
 
