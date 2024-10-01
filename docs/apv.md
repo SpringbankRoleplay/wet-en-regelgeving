@@ -404,7 +404,7 @@ Straf ⇨ Categorie 7: permanente ban
 3. Het is niet toegestaan om hostages te pakken op de volgende plekken:
     * In de kledingwinkel in het kledingmenu
     * Locaties waar werkzaamheden gestart en beëindigd worden
-4. Zodra jij een overval doet en je krijgt groenlicht mag er 10min lang geen setup gegooid worden. De 10min worden dus gerekend wanneer het groene licht gegeven word.
+4. Zodra jij een overval doet en je krijgt groenlicht mag er 10min lang geen setup gegooid worden. De 10min worden gerekend vanaf het moment dat er groenlicht gegeven is. Indien je wel een setup doet, valt dit onder RDM/ verstoren roleplay.
 
 ### Artikel 31 - Wraak en liquidaties
 
