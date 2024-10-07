@@ -35,6 +35,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Pagassi Toros
  * Pfister Astron Custom
  * Ubermacht Rebla CTs
+ * Ubermacht Beretta
  * Vapid Aleutian XL
  * Vapid Minivan (alleen met off-road banden)
  * Vapid Minivan Lowrider (alleen met off-road banden)
@@ -64,6 +65,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Declasse Yosemite DRT
  * Gallivanter Baller Raid
  * Karin Bjxl
+ * Karin Everon Stock
  * Karin Rebel 20
  * Karin Rebel Raid
  * Maibatsu Manchez Safari
@@ -72,6 +74,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Maibatsu Sanchez SM
  * Maibatsu Sanchez Sport
  * Nagasaki Bf400
+ * Nagasaki Bf900
  * Nagasaki Blazer
  * Nagasaki Blazer Hotrod
  * Nagasaki Blazer Sport
