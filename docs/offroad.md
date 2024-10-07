@@ -28,6 +28,7 @@ Alle voertuigen die niet zijn opgenomen in dit document zijn standaard van de kl
  * Gallivanter Baller ST-D Platinum
  * Karin Bjxl (alleen met off-road banden)
  * Karin Mogul RS (alleen met off-road banden)
+ * Karin Sultan (alleen met off-road banden)
  * Karin Sult RSX (alleen met off-road banden)
  * Lampadati Novak
  * Lampadati Novak
